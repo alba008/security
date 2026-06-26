@@ -107,8 +107,3 @@ const role = {
   fontSize: { xs: ".85rem", md: ".95rem" },
 };
 
-const bio = {
-  color: "#cbd5e1",
-  lineHeight: 1.7,
-  fontSize: { xs: ".88rem", md: "1rem" },
-};

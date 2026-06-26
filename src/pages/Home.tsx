@@ -5,7 +5,6 @@ import Industries from "../components/sections/Industries";
 import TrustedBy from "../components/sections/TrustedBy";
 import Stats from "../components/sections/Stats";
 import Services from "../components/sections/Services";
-import CommandCenter from "../components/sections/CommandCenter";
 import Leadership from "../components/sections/Leadership";
 
 import { supabase } from "../lib/supabase";
